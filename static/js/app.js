@@ -69,7 +69,8 @@ function buildCharts(sample) {
       title: 'Bacteria Cultures Per Sample',
       margin: { t: 30 },
       hovermode: 'closest',
-      xaxis: { title: 'OTU ID' }
+      xaxis: { title: 'OTU ID' },
+      yaxis: { title: 'Number of Bacteria' }
     };
 
 
