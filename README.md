@@ -1,6 +1,9 @@
 # Belly Button Biodiversity Dashboard
 
-## *An Interactive Dashboard in JavaScript (D3 & Plotly), HTML and JSON*
+## [*An Interactive Dashboard in JavaScript (D3 & Plotly), HTML and JSON*](https://guileless-trifle-f53692.netlify.app/)
+
+*https://guileless-trifle-f53692.netlify.app/* ![belly-button-biodiversity-dashboard](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/36a1f3e5-726b-4929-884b-ea5bc73f316b)
+
 
 ## Background
 
@@ -37,7 +40,7 @@ A horizontal bar chart is created to display the top 10 OTUs found in the select
 A bubble chart is created to display the sample values for each OTU in the selected individual.
 
 ### Metadata and Deployment
-The dashboard includes a panel to display demographic information of the selected test subject.
+The [dashboard](https://guileless-trifle-f53692.netlify.app/) includes a panel to display demographic information of the selected test subject.
 
 ## Project Files
 - `index.html`: Main HTML file for the dashboard interface
