@@ -46,10 +46,12 @@ The dashboard includes a panel to display demographic information of the selecte
 
 ### Project Structure
 
-- belly-button-challenge
+- belly-button-challenge   
   - `index.html`
-  - `app.js`
   - `samples.json`
+  - Static/js
+    - js
+      - `app.js`
   - `README.md`: Contains the overview, instructions, or other relevant information.
 
 
