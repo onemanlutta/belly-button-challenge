@@ -2,7 +2,7 @@
 
 ## [*An Interactive Dashboard in JavaScript (D3 & Plotly), HTML and JSON*](https://guileless-trifle-f53692.netlify.app/)
 
-*https://guileless-trifle-f53692.netlify.app/* ![belly-button-biodiversity-dashboard](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/b8490fb9-bc83-4bd5-bbe6-d97712866926)
+*https://guileless-trifle-f53692.netlify.app/* ![belly-button-biodiversity-dashboard](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/75b98d2a-26e7-497e-961b-33b9228b8535)
 
 
 
@@ -37,19 +37,21 @@ D3.js is used to fetch and parse the dataset from a JSON file.
 ### Horizontal bar chart with dropdown menu
 A horizontal bar chart is created to display the top 10 OTUs found in the selected individual, with a dropdown menu to select different test subjects.
 
-![Top 10 Bacteria Cultures](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/19d33dbb-1bc6-4cc7-aa49-ffc427563834)
+![Top 10 Bacteria Cultures](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/f03b0828-e63e-4025-8879-b251c9068cc1)
 
 
 ### Bubble charts
 A bubble chart is created to display the sample values for each OTU in the selected individual.
 
-![Bacteria Cultures Per Sample](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/9316aeb6-667c-43db-9ce6-40a63259004a)
+![Bacteria Cultures Per Sample](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/019f1e58-502a-4c15-a3d7-2b8e99492c38)
+
 
 
 ### Metadata and Deployment
 The [dashboard](https://guileless-trifle-f53692.netlify.app/) includes a panel to display demographic information of the selected test subject.
 
-![Demographics](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/540d145c-8867-4b13-93e5-5ba12fa7d59e)
+![Demographics](https://github.com/onemanlutta/belly-button-challenge/assets/118937365/dde422ab-f66f-48ab-8688-7477281a6a4a)
+
 
 
 ## Project Files
