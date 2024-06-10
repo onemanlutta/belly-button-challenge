@@ -67,6 +67,11 @@ The [dashboard](https://guileless-trifle-f53692.netlify.app/) includes a panel t
   - Static/js
     - js
       - `app.js`
+  - images
+    - Bacteria Cultures Per Sample.png
+    - belly-button-biodiversity-dashboard.png
+    - Demographics.png
+    - Top 10 Bacteria Cultures.png
   - `README.md`: Contains the overview, instructions, or other relevant information.
 
 
